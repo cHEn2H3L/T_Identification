@@ -1,4 +1,4 @@
-## Name:topology identification
+## Name:Topology identification
 
 ## Introduction
 The code is mainly used to simulate the multi-scale complex network model and identify the unknown parameters in the 
